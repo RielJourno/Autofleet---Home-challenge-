@@ -15,7 +15,18 @@ to later develop a capability of magnification.
 ![This is an image](https://i.ibb.co/yPcxNqH/Design.png)
 
 Catching the polygon points and calculating if the car is inside the polygon was the tricky part
-because it was hard to understand how to hook the drawing from Mapbox.
+because it was hard to understand how to hook the drawing from Mapbox engine.
 Although I have written the algorithm, It's still not working at the moment
 My time was up and I still could not find a way out.
+
+## technology set
+
+Language I use:
+Node.js, Express.js for Sarver and Back-End.
+
+HTML, CSS, Boostrap for Front-End.
+
+React to make the front might be better choices because of the separate refreshing,
+However, I'm new to React so I decided to stick with the language I know better.
+
 
