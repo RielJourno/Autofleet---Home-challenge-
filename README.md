@@ -19,6 +19,10 @@ because it was hard to understand how to hook the drawing from Mapbox engine.
 Although I have written the algorithm, It's still not working at the moment
 My time was up and I still could not find a way out.
 
+The algorithm is in a file called `pointpoly.js` for now on route `public/js/pointpoly.js`
+
+I'm planning to finish it at the weekend because I very enjoyed the challenge.
+
 ## technology set
 
 **Language I use:**
