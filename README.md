@@ -1,3 +1,3 @@
 # Autofleet - Home-challenge:
 
-![alt text]https://i.ibb.co/yPcxNqH/Design.pn
+![This is an image]https://i.ibb.co/yPcxNqH/Design.png
