@@ -1,4 +1,4 @@
-# Autofleet - Home-challenge:
+# Autofleet - Home-challenge - Riel Journo:
 
 Autofleet company, thank you for this challenge 
 While this was a long and hard one, it was also a lot of fun.
@@ -21,12 +21,18 @@ My time was up and I still could not find a way out.
 
 ## technology set
 
-Language I use:
-Node.js, Express.js for Sarver and Back-End.
-![This is an image](https://worldvectorlogo.com/logo/nodejs-icon)
-HTML, CSS, Boostrap for Front-End.
+**Language I use:**
 
-React to make the front might be better choices because of the separate refreshing,
+`Node.js`, `Express.js` and `JavaScript` for Sarver and Back-End.
+
+map engine from `mapbox`
+
+`mongoDB` for the Database
+
+`HTML`, `CSS`, `JavaScript` and `Boostrap` for Front-End.
+
+
+`React` to make the front might be better choices because of the separate refreshing,
 However, I'm new to React so I decided to stick with the language I know better.
 
 
