@@ -10,6 +10,6 @@ I decided to use mongoDB to store the data.
 In addition, I invested a lot in the distribution of folders (even when I did not have to)
 to later develop a capability of magnification.
 
-## The Desigen: 
+## The Design drawing: 
 
 ![This is an image](https://i.ibb.co/yPcxNqH/Design.png)
