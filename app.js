@@ -15,8 +15,6 @@ connectDB();
 const app = express();
 
 
-//EJS moduls
-//app.set('view engine', 'ejs');
 
 //bodyParser
 app.use(bodyParser.urlencoded({extended: true}));
