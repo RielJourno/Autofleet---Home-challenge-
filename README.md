@@ -39,4 +39,7 @@ map engine from `mapbox`
 `React` to make the front might be better choices because of the separate refreshing,
 However, I'm new to React so I decided to stick with the language I know better.
 
+I created a gitignore file that lists which files to ignore, but I've put them all here so you can see them all
+at the heroku site I did everything "by the book".
 
+heruku URL: https://whispering-oasis-57254.herokuapp.com/
