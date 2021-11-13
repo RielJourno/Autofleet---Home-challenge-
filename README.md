@@ -41,6 +41,6 @@ However, I'm new to React so I decided to stick with the language I know better.
 
 I created a `.gitignore` file that lists which files to ignore, but I've put them all here (even the `APIkey` `Tokens`  and `.env` files) so you can see them all.
 
-at the heroku site I did everything "by the book".
+At the heroku site I did everything "by the book".
 
-heruku URL: https://whispering-oasis-57254.herokuapp.com/
+heroku URL: https://whispering-oasis-57254.herokuapp.com/
