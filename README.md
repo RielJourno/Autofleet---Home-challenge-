@@ -12,7 +12,7 @@ to later develop a capability of magnification.
 
 ## The Design drawing: 
 
-![This is an image](https://i.ibb.co/yPcxNqH/Design.png)
+![This is an image](https://i.ibb.co/dJJqmHd/Design.png)
 
 Catching the polygon points and calculating if the car is inside the polygon was the tricky part
 because it was hard to understand how to hook the drawing from Mapbox engine.
