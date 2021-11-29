@@ -14,14 +14,13 @@ to later develop a capability of magnification.
 
 ![This is an image](https://i.ibb.co/dJJqmHd/Design.png)
 
-Catching the polygon points and calculating if the car is inside the polygon was the tricky part
+for the Bonus part:
+I decided catching using the polygon points and calculating if the car is inside the polygon. but that was the tricky part
 because it was hard to understand how to hook the drawing from Mapbox engine.
-Although I have written the algorithm, It's still not working at the moment
-My time was up and I still could not find a way out.
+Although I have written the algorithm, It's still not working at the moment, But this is my Idea for the bonus part.
 
 The algorithm is in a file called `pointpoly.js` for now on route `public/js/pointpoly.js`
 
-I'm planning to finish it at the weekend because I very enjoyed the challenge.
 
 ## technology set
 
